@@ -2,5 +2,6 @@
     "name": "心雨",
     "ver": "v1.0",
     "page-mounts": true,
-    "logo": "amWiki/images/logo.jpg"
+    "logo": "amWiki/images/logo.jpg",
+    "github-url": "https://github.com/XingyuZhang2018/xingyu_wiki.git"
 }
