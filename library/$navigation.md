@@ -14,12 +14,9 @@
     - [复选框](?file=001-常用/001-Markdown/009-复选框 "复选框")
     - [转义](?file=001-常用/001-Markdown/010-转义 "转义")
     - [图片](?file=001-常用/001-Markdown/011-图片 "图片")
-- **Latex**
 
 ##### 软件
+- **vscode**
+    - [安装和配置](?file=002-软件/001-vscode/001-安装和配置 "安装和配置")
 - **Latex**
-    - [Texlive+vscode配置](?file=002-软件/001-Latex/01-Texlive+vscode配置 "Texlive+vscode配置")
-
-##### 编程
-
-##### 物理
+    - [Texlive+vscode配置](?file=002-软件/002-Latex/01-Texlive+vscode配置 "Texlive+vscode配置")
