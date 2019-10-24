@@ -15,11 +15,10 @@
     - [转义](?file=001-常用/001-Markdown/010-转义 "转义")
     - [图片](?file=001-常用/001-Markdown/011-图片 "图片")
     - [公式](?file=001-常用/001-Markdown/012-公式 "公式")
-- **Latex**
 
 ##### 软件
-- **VScode**
-    - [安装和配置](?file=002-软件/001-VScode/001-安装和配置 "安装和配置")
+- **vscode**
+    - [安装和配置](?file=002-软件/001-vscode/001-安装和配置 "安装和配置")
 - **amWiki**
     - [安装和配置](?file=002-软件/002-amWiki/001-安装和配置 "安装和配置")
     - [快速上手](?file=002-软件/002-amWiki/002-快速上手 "快速上手")
@@ -27,7 +26,3 @@
     - [在GitHub上部署网站](?file=002-软件/002-amWiki/004-在GitHub上部署网站 "在GitHub上部署网站")
 - **Latex**
     - [Texlive+vscode配置](?file=002-软件/003-Latex/01-Texlive+vscode配置 "Texlive+vscode配置")
-
-##### 编程
-
-##### 物理
