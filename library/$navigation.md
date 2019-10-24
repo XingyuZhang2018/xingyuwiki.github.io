@@ -23,6 +23,8 @@
 - **amWiki**
     - [安装和配置](?file=002-软件/002-amWiki/001-安装和配置 "安装和配置")
     - [快速上手](?file=002-软件/002-amWiki/002-快速上手 "快速上手")
+    - [编辑文库](?file=002-软件/002-amWiki/003-编辑文库 "编辑文库")
+    - [在GitHub上部署网站](?file=002-软件/002-amWiki/004-在GitHub上部署网站 "在GitHub上部署网站")
 - **Latex**
     - [Texlive+vscode配置](?file=002-软件/003-Latex/01-Texlive+vscode配置 "Texlive+vscode配置")
 
