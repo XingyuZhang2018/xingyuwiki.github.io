@@ -10,13 +10,22 @@
     - [超链接](?file=001-常用/001-Markdown/005-超链接 "超链接")
     - [表格](?file=001-常用/001-Markdown/006-表格 "表格")
     - [代码](?file=001-常用/001-Markdown/007-代码 "代码")
-    - [脚注](?file=001-常用/001-Markdown/008-脚注 "脚注")
+    - [引用](?file=001-常用/001-Markdown/008-引用 "引用")
     - [复选框](?file=001-常用/001-Markdown/009-复选框 "复选框")
     - [转义](?file=001-常用/001-Markdown/010-转义 "转义")
     - [图片](?file=001-常用/001-Markdown/011-图片 "图片")
+    - [公式](?file=001-常用/001-Markdown/012-公式 "公式")
+- **Latex**
 
 ##### 软件
-- **vscode**
-    - [安装和配置](?file=002-软件/001-vscode/001-安装和配置 "安装和配置")
+- **VScode**
+    - [安装和配置](?file=002-软件/001-VScode/001-安装和配置 "安装和配置")
+- **amWiki**
+    - [安装和配置](?file=002-软件/002-amWiki/001-安装和配置 "安装和配置")
+    - [快速上手](?file=002-软件/002-amWiki/002-快速上手 "快速上手")
 - **Latex**
-    - [Texlive+vscode配置](?file=002-软件/002-Latex/01-Texlive+vscode配置 "Texlive+vscode配置")
+    - [Texlive+vscode配置](?file=002-软件/003-Latex/01-Texlive+vscode配置 "Texlive+vscode配置")
+
+##### 编程
+
+##### 物理
