@@ -26,7 +26,7 @@
     - [编辑文库](?file=002-软件/002-amWiki/003-编辑文库 "编辑文库")
     - [在GitHub上部署网站](?file=002-软件/002-amWiki/004-在GitHub上部署网站 "在GitHub上部署网站")
 - **Latex**
-    - [Texlive+vscode配置](?file=002-软件/003-Latex/01-Texlive+vscode配置 "Texlive+vscode配置")
+    - [Texlive+VScode配置](?file=002-软件/003-Latex/01-Texlive+VScode配置 "Texlive+VScode配置")
 
 ##### 编程
 
